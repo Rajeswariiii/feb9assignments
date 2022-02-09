@@ -1,0 +1,10 @@
+
+#number is even or odd
+number=int(input('enter number:'))
+if (number%2==0):
+    print('even')
+else:
+    print('odd') 
+enter number:108
+even
+> 
